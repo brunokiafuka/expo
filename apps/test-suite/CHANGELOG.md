@@ -1,5 +1,14 @@
 # test-suite
 
+## 1.0.17
+
+### Patch Changes
+
+- Updated dependencies. ([#52727](https://github.com/expo/expo/pull/52727), [#52728](https://github.com/expo/expo/pull/52728), [#52729](https://github.com/expo/expo/pull/52729))
+  - expo-modules-core@58.0.30
+  - expo@58.0.23
+  - expo-screen-orientation@58.0.4
+
 ## 1.0.16
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # Changelog
 
+## 58.0.30
+
+### Patch Changes
+
+- [iOS] Add `ExpoRootViewController`, which applies the status bar style and visibility set from JavaScript, and use it as the default root view controller. ([#52727](https://github.com/expo/expo/pull/52727) by [@alanjhughes](https://github.com/alanjhughes))
+
 ## 58.0.29
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # notification-tester
 
+## 1.0.17
+
+### Patch Changes
+
+- Updated dependencies. ([#52728](https://github.com/expo/expo/pull/52728))
+  - expo@58.0.23
+  - test-suite@1.0.17
+  - native-component-list@0.0.17
+
 ## 1.0.16
 
 ### Patch Changes

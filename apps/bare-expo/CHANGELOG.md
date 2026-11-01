@@ -1,5 +1,15 @@
 # bare-expo
 
+## 0.0.18
+
+### Patch Changes
+
+- Updated dependencies. ([#52736](https://github.com/expo/expo/pull/52736), [#52728](https://github.com/expo/expo/pull/52728))
+  - expo-ai@0.2.0
+  - expo@58.0.23
+  - test-suite@1.0.17
+  - native-component-list@0.0.17
+
 ## 0.0.17
 
 ### Patch Changes

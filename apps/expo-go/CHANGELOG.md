@@ -1,5 +1,13 @@
 # @expo/home
 
+## 0.0.18
+
+### Patch Changes
+
+- Updated dependencies. ([#52728](https://github.com/expo/expo/pull/52728), [#52729](https://github.com/expo/expo/pull/52729))
+  - expo@58.0.23
+  - expo-screen-orientation@58.0.4
+
 ## 0.0.17
 
 ### Patch Changes
